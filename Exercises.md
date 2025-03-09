@@ -12,3 +12,11 @@ I think I need to lie down...
 
 </p>Better times must be ahead.
 </p>
+
+
+
+
+
+# Week Two - Enlightened Slots
+
+</p>This weeks readings seemed to focus on variations of digital writing. In 'Englightening Interactive Fiction' I found the break down of the story 'Shade' to be interesting. Especially as the article focused on concepts I had missed before when I had interacted with 'Shade'. 
