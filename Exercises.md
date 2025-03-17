@@ -23,3 +23,6 @@ I think I need to lie down...
 
 </p>Im still wildly confused by coding. I have been running through this class trying not to break the fragile code that exists on the screen. My mindset has not changed that much, I did think about jumping ship this week but apparently subject change is now no longer possible. I don't believe that interacting with elit has changed how i read it. I think I am beginning to resent this class and the content that it teaches...</p>
 
+</p>As for the readings:</p>
+</p>
+
