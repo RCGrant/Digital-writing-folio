@@ -16,14 +16,14 @@ I think I need to lie down...
 </p>
 
 # Electronic Literature Collection
-</p>VOLUME 1 and 2
+</p>VOLUME 1 and 2:
 Not really accessible now that technology has moved on. Uncomfortable as alot of these pieces require downloading files off the interent, something that is against everything I was taught.
 </p>
 
-</p>VOLUME 3
+</p>VOLUME 3:
 The Brain Drawing The Bullet by Alan Trotter- Hyper text story focusing on the unreliable author describe the scene of a murder. As you move through the piece, previous paragraphs you have already read, chop and change, moving the story of how Joan died in wildly different directions. I would consider this elit as it relys on hypertext to work, you would not be able to print this story onto paper. I loved the confusion the story caused, it felt like I was the police interviewing witnesses and suspects.</p>
 
-</p>VOLUME 4
+</p>VOLUME 4:
 Living Will by Mark C. Marino - An interactive fiction story using HTML, javascript and undum. The story is set around a will which changes depending on decisions you make. You can begin as the rich son or the lowly gardener. The only goal is to make it to the end with the mosy money, if you go into debt, you lose. I loved this piece because it felt like I was playing a game, with a clear finish line. Every decision taught me something new about the world that had been built by Marino.
 </p>
 
