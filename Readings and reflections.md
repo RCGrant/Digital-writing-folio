@@ -10,6 +10,8 @@ I think I need to lie down...
 </p>The inital readings seemed to only show one side of this course. We saw the finished product, the end of the production line, a hopeful future. I enjoyed my time exploring the various types of interactive stories, even finding joy in the short story 'shade'. Class felt more chaotic, an unrefined collision of creative types and numbers, trying to understand each other but only being partially successful.
 </p>
 
+</p>I usually writing on paper, straying from one genre to another. I prefer paper and pen because I am less reclined to edit as I go, less likely to lose hope or give up. It is a barrier I need to sit down and write.
+</p>
 </p>Better times must be ahead.
 </p>
 
