@@ -37,6 +37,8 @@ Living Will by Mark C. Marino - An interactive fiction story using HTML, javascr
 
 </p>Im still wildly confused by coding. I have been running through this class trying not to break the fragile code that exists on the screen. My mindset has not changed that much, I did think about jumping ship this week but apparently subject change is now no longer possible. I don't believe that interacting with elit has changed how i read it. I think I am beginning to resent this class and the content that it teaches...</p>
 
-</p>As for the readings:</p>
+</p>As for the new week 1 and 2 questions:</p>
+</p>Taroko Gorge and Co cannot be printed. That is the simple difference between these elit pieces and printed lit. They read different because you have to actively interact with the pieces to read the full story. If you choose to only read the surface of any of these pieces, you will miss the main points. In Taroko Gorge, if you dont move your mouse across the green screen, you would not uncover the next line. If you dont write the next command in Shade, you would never find the plane tickets. Qualities that set these stories a part from traditional literature is the use of coding to create a bridge between the author and the reader. Without the code, these stories would not exist. Flash based elit is a prime example of this, where the code that underlines these stories has disappeared, so has the stories they used to tell.
 </p>
+
 
