@@ -17,7 +17,7 @@ https://learning--i-think.glitch.me/
 https://circular-rough-jingle.glitch.me
 
 # Lipogram - No letter e
-Art is marginal, mind pnumbing, a morticians cold cuts and hot chai. Art is tinnitus, narcassistic, a narcotic that sticks to your hair. Art is nobdy in particular, a fly stuck on my window. Art is that man, that dog, that bird, that lip plant in your living room. Art is lost lands of sand and pollution and salt flats, footprints sinking into soft soil.
+Art is marginal, mind numbing, a morticians cold cuts and hot chai. Art is tinnitus, narcassistic, a narcotic that sticks to your hair. Art is nobdy in particular, a fly stuck on my window. Art is that man, that dog, that bird, that lip plant in your living room. Art is lost lands of sand and pollution and salt flats, footprints sinking into soft soil.
 
 # Mesostics
 I*llusion, grandous feelings that have no place
