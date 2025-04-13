@@ -55,3 +55,14 @@ Living Will by Mark C. Marino - An interactive fiction story using HTML, javascr
 </p>Idea two: A set of five riddles focusing on the obvious but ignored parts of our lives (poverty line, gender inequality, depression, homelessness, money). I don't know what platform I would need to make this on as the reader would have to give the answers to the questions to move through the piece.</p>
 
 </p>I don't know if I should go with something more rooted in visual cues or something that has a deep connection to the analog world I am used to.</p>
+
+# Reflection on past stories completed in Digital Writing
+</p>House on the Hill by Lara J. Scuri</p>
+
+</p>House on the Hill uses Bitsy to tell a story surrounding a haunted house. The reader uses the arrow keys and enter key to move through the story, reading dialogue and interacting with objects found in the house.</p>
+
+</p>The use of bitsy deepened the interactive component of the story, especially as you could walk off the beaten track and interact with other parts of the house not meant to progress the story. The music sets the scene nicely, transporting the reader into a Scooby-Doo mystery environment. Scuri uses the technology aspect of the story to further strengthen the haunted themes within the story. This is most notable after talking with the strange presence in the study. After the conversation, the pixels that once illustrated a whole room distort into a maze of black squares that is jolting.</p>
+
+</p>While Bitsy is easy to navigate for the reader, I felt the story was a bit restrained by the very technology used to tell it. Clicking through one or two lines of dialogue at a time took away from the broader story.</p>
+
+</p>I was thinking of using Bitsy for my own final piece, but this interactive fiction story has made me think twice about such an idea. While as a reader I found the piece easy to follow, easy to move through, and engaging. I found the delivery choice of the actual story less than enjoyable. I think Bitsy would work for shorter pieces due to the restriction of the dialogue you can have on screen at any one time.</p>
