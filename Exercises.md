@@ -30,4 +30,4 @@ https://circular-rough-jingle.glitch.me
 </p>high hats and Umbrellas and waistcoats and watchchains</p>
 </p>Lucid dreaming, long nights</p>
 </p>naSty little people in my ear</p>
-</p>last time i saw you hEre, was the beginning of our lat nights</p>
+</p>last time i saw you hEre, was the beginning of our late nights</p>
