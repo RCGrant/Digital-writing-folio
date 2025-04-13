@@ -48,7 +48,7 @@ Living Will by Mark C. Marino - An interactive fiction story using HTML, javascr
 </p>This real time collaboration of author and reader cannot be found within traditional writing methods. However the concept of hypertext itself is not too foriegn to intimidate the reader and gives them the chance to focus and ignore parts of the story that may not interest them.</p>
 
 # Ideas around Assessment two and three
-</p>I have been bouncing from one idea to another, so I will list the top three in hopes that it will make the selection process easier.</p>
+</p>I have been bouncing from one idea to another, so I will list the top two in hopes that it will make the selection process easier.</p>
 
 </p>Idea one: Spider web across screen, reader cuts the web between words to create their own poem. Simple black and white asthetic, words relating to the modern world (excessive consumption, oversharing). Twine could probably be useful in the creation of this piece. I would draw images that the reader could click on and change. I think it would be time consuming, with many creations of different images with all the choices available to the reader.</p>
 
