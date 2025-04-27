@@ -26,3 +26,9 @@ I don't know what platform I would need to make this on as the reader would have
 </p>I am already losing my mind. Multiple parts of this project are not going right and I have limited knowledge in how to fix any of these issues. The submit box will not work for me, even with the assistence of chat GPT. Even more frustrating is that, no matter what I do, I cannot get my twine to deploy properly on github even though I have been am to do this before. I have attempted a few different ways with little change. I have attempted defeat for now and have uploaded several screenshot of my code breaking into my images folder found in my portfolio.</p>
 
 </p>I will give myself a few days to find the energy once again to successfully deploy my twines with github...</p>
+
+</p>Got thing to work. Don't know what I did, but it's now working!
+
+</p>Prototype: https://rcgrant.github.io/Overshadowed/</p>
+
+</p>Broken code: Still unable to get these deployed links to work. Different error messages.</p>
