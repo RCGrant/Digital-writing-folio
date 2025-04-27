@@ -20,3 +20,9 @@ I don't know what platform I would need to make this on as the reader would have
 </p>Why do you get out of bed at all? What’s the point? Just stay here for another hour, no one is going to miss you. The only mail that you receive are bills. The effort it takes to get from the bed to the bathroom is marathon like. How did two hours pass? You only took three steps.</p>
 
 </p>You find the keys at the bottom of your old work bag. The landlord probably changed the locks after you left. You try to remember your old front door, but its all jumbled up. You can feel the dark circles under your eyes and the emptiness of your stomach. You raise your cardboard sign.</p>
+
+# First draft woes
+
+</p>I am already losing my mind. Multiple parts of this project are not going right and I have limited knowledge in how to fix any of these issues. The submit box will not work for me, even with the assistence of chat GPT. Even more frustrating is that, no matter what I do, I cannot get my twine to deploy porperly on gthub even though I have been am to do this before. I have attempted a few different ways with little change. I have attempted defeat for now and have uploaded several screenshot of my code breaking into my images folder found in my portfolio.</p>
+
+</p>I will give myself a few days to find the energy once again to successfully deploy my twines with github...</p>
