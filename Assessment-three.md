@@ -33,8 +33,8 @@ I don't know what platform I would need to make this on as the reader would have
 
 </p>Broken code: Still unable to get these deployed links to work. Different error messages.</p>
 
-#The 16th and 17th of May - Make or break
-#Audio mountain - moving to dropbox
-#The Final piece
+# The 16th and 17th of May - Make or break
+# Audio mountain - moving to dropbox
+# The Final piece
 </p> https://rcgrant.itch.io/overshadowed
 </p>
