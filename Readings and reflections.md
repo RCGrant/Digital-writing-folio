@@ -66,3 +66,6 @@ Living Will by Mark C. Marino - An interactive fiction story using HTML, javascr
 </p>While Bitsy is easy to navigate for the reader, I felt the story was a bit restrained by the very technology used to tell it. Clicking through one or two lines of dialogue at a time took away from the broader story.</p>
 
 </p>I was thinking of using Bitsy for my own final piece, but this interactive fiction story has made me think twice about such an idea. While as a reader I found the piece easy to follow, easy to move through, and engaging. I found the delivery choice of the actual story less than enjoyable. I think Bitsy would work for shorter pieces due to the restriction of the dialogue you can have on screen at any one time.</p>
+
+
+# Week 10 - A look back
