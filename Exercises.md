@@ -36,3 +36,5 @@ https://circular-rough-jingle.glitch.me
 
 https://rcgrant.github.io/Digital-writing-for-twine-failed-image-map/
 
+</p>Reflection: This is not my favourite program by any means, yet I think I will still use it in my final piece. Twine is mostly user friendly to beginner coders but then throws these curve balls at you with devastating effect. I cannot for the life of me get the image map to work. I had tried several different ways now (with the assistance of teachers, peers and ChatGPT) and looking at the twine is beginning to hurt. The link above leads to this broken code, I was unable to fix the issues.</p> 
+
