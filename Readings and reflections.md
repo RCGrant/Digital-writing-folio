@@ -17,14 +17,14 @@ I think I need to lie down...
 
 # Electronic Literature Collection
 </p>VOLUME 1 and 2:
-Not really accessible now that technology has moved on. Uncomfortable as alot of these pieces require downloading files off the interent, something that is against everything I was taught.
+Was not accessible, as most of the technology used in the foundations of the pieces is now obsolete. I found this uncomfortable, as a lot of the stories required the reader to download unknown files from the internet, something that I am truly against.
 </p>
 
 </p>VOLUME 3:
-The Brain Drawing The Bullet by Alan Trotter- Hyper text story focusing on the unreliable author describe the scene of a murder. As you move through the piece, previous paragraphs you have already read, chop and change, moving the story of how Joan died in wildly different directions. I would consider this elit as it relys on hypertext to work, you would not be able to print this story onto paper. I loved the confusion the story caused, it felt like I was the police interviewing witnesses and suspects.</p>
+I chose the hypertext story ‘The Brain Drawing the Bullet’ by Alan Trotter. Columns of text on a white background initially greet the reader. This story focuses on the concept of the unreliable narrator, which can be seen when the reader clicks onto the next column of text. With every click, the previous columns chop and change, moving the story of how Joan died in wildly different directions. At first, I didn’t notice the changes, as they are subtle; only after reading back due to confusion did I notice that the previous paragraphs now said something new. I would consider this piece E-lit, as it relies on hypertext to work, in print format, it would lose the key feature that makes this piece unnerving. I loved the confusion the story caused, it felt almost like the reader had taken on the role of the police and was stuck with sifting through the statements, trying to discover what was fact or fiction.</p>
 
 </p>VOLUME 4:
-Living Will by Mark C. Marino - An interactive fiction story using HTML, javascript and undum. The story is set around a will which changes depending on decisions you make. You can begin as the rich son or the lowly gardener. The only goal is to make it to the end with the mosy money, if you go into debt, you lose. I loved this piece because it felt like I was playing a game, with a clear finish line. Every decision taught me something new about the world that had been built by Marino.
+I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The story is set around a will, which changes depending on decisions you make. You can begin as the rich son or the lowly gardener. The only goal is to make it to the end with the most money, if you go into debt, you lose. I enjoyed this piece as it had a competitive edge to it, there was incentive to try and make the most of your decisions. Every decision taught me something new about the world Marino had built for this fiction piece, and I was able to play through the piece several times.
 </p>
 
 # Week Two - Enlightened Slots
