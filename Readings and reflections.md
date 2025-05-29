@@ -50,11 +50,11 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 # Ideas around Assessment two and three
 </p>I have been bouncing from one idea to another, so I will list the top two in hopes that it will make the selection process easier.</p>
 
-</p>Idea one: Spider web across screen, reader cuts the web between words to create their own poem. Simple black and white asthetic, words relating to the modern world (excessive consumption, oversharing). Twine could probably be useful in the creation of this piece. I would draw images that the reader could click on and change. I think it would be time consuming, with many creations of different images with all the choices available to the reader.</p>
+</p>Idea one: Spider web across screen, reader cuts the web between words to create their own poem. Simple black and white aesthetic, words relating to the modern world (excessive consumption, oversharing). Twine could probably be useful in the creation of this piece. I would draw images that the reader could click on and change. I think it would be time-consuming, with many creations of different images with all the choices available to the reader.</p>
 
-</p>Idea two: A set of five riddles focusing on the obvious but ignored parts of our lives (poverty line, gender inequality, depression, homelessness, money). I don't know what platform I would need to make this on as the reader would have to give the answers to the questions to move through the piece.</p>
+</p>Idea two: A set of five riddles focusing on the obvious but ignored parts of our lives (poverty line, gender inequality, depression, homelessness, money). I don't know what platform I would need to make this on, as the reader would have to give the answers to the questions to move through the piece.</p>
 
-</p>I don't know if I should go with something more rooted in visual cues or something that has a deep connection to the analog world I am used to.</p>
+</p>I don't know if I should go with something more rooted in visual cues or something that has a deep connection to the analogue world I am used to.</p>
 
 # Reflection on past stories completed in Digital Writing
 </p>House on the Hill by Lara J. Scuri</p>
