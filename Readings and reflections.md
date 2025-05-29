@@ -27,11 +27,23 @@ I chose the hypertext story ‘The Brain Drawing the Bullet’ by Alan Trotter. 
 I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The story is set around a will, which changes depending on decisions you make. You can begin as the rich son or the lowly gardener. The only goal is to make it to the end with the most money, if you go into debt, you lose. I enjoyed this piece as it had a competitive edge to it, there was incentive to try and make the most of your decisions. Every decision taught me something new about the world Marino had built for this fiction piece, and I was able to play through the piece several times.
 </p>
 
+</p>Readings—Decolonize E-Literature? On weeding the E-Lit Garden
+</p>
+</p>This peer-reviewed piece was interesting, as I had no understanding of a lot of the terms used. First, second, and third gen E-lit were terms I didn’t know existed and were hard to grasp on the first read. I enjoyed the use of a walled garden as a metaphor for E-lit as a community. Personally, I believe that there are pros and cons whether the community brings down the wall or not. Unfortunately, in the society we live in, it is more likely a corporation will overtake the garden the moment it shows any form of profitability.
+</p>
+</p>Readings—Electronic Literature: What Is It?
+</p>This website was incredibly hard to read, especially as the layout was not inviting. In this piece, the author sets out a history of E-literature in the modern world, setting out defining features of E-lit when compared to traditional print works. The author emphasises the relationship between evolving technology and E-lit and how, with each new innovation, new stories can be told. While I partially agree with the authors' main message, I also see the downside of this continued march forward. Eventually all that has come before will be lost, and unlike print copies, which can be saved or translated, E-lit faces a more permanent end.  
+</p>
+
 # Week Two - Enlightened Slots
 
 </p>This weeks readings seemed to focus on variations of digital writing. In 'Englightening Interactive Fiction' I found the break down of the story 'Shade' to be interesting. Especially as the article focused on concepts I had missed before such as the tickets moving around the room.</p>
 
 </P>I also began exploring the Electronic Literature Collection and discovered a few pieces that became addictive. 'The book you are looking for does not exist' and 'Living Will' were some of my favourites. I still don't understand a few of the pieces I interacted with, such as 'Masked Making'.
+</p>
+</p>Readings—Digital Poesis Impulse
+</p>This piece explores why poets may turn to digital writing. This author argues that poets may find more room to experiment with language, formats, data, and chaos to produce new poems. While I agree with the author in terms of digital writing offering a new playground to create in, I believe that this new playground has, at times, the same restrictive feeling that writing traditionally can have, especially if you are not well versed in code or in the programs that assist with the digital writing.
+</P>
 
 # Week three - Remixed Chaos
 
