@@ -72,6 +72,7 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 </p>
 </p>A strange read, as it talks about the World Wide Web like it has yet to happen. The author's ideas were interesting, especially when talking about the different ‘pathways’ a story might have depending on how and where it was created. I came back to this in week six and thought about my own story’s basic structure and had this idea to maybe loop the story, giving a false sense of change from the reader’s perspective. I don’t know if I will go ahead with this.
 </p>
+
 # Week 6 - What came before
 </p>House on the Hill by Lara J. Scuri</p>
 
