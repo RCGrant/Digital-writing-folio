@@ -68,7 +68,7 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 
 </p>I don't know if I should go with something more rooted in visual cues or something that has a deep connection to the analogue world I am used to.</p>
 
-# Reflection on past stories completed in Digital Writing
+# Week 6 - What came before
 </p>House on the Hill by Lara J. Scuri</p>
 
 </p>House on the Hill uses Bitsy to tell a story surrounding a haunted house. The reader uses the arrow keys and enter key to move through the story, reading dialogue and interacting with objects found in the house.</p>
@@ -79,6 +79,10 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 
 </p>I was thinking of using Bitsy for my own final piece, but this interactive fiction story has made me think twice about such an idea. While as a reader I found the piece easy to follow, easy to move through, and engaging. I found the delivery choice of the actual story less than enjoyable. I think Bitsy would work for shorter pieces due to the restriction of the dialogue you can have on screen at any one time.</p>
 
+</p>Readings – Riddles
+</p>
+</p>This piece has inspired a new idea, something that may dismantle my original idea for my final project. In the chapter ‘Two Riddles,’ the author talks about how riddles acted as an early ancestor of interactive fiction. I enjoyed this concept so much, I think I will mix the ‘old’ and the ‘new’ together to create one large interactive piece. I feel this could represent me on a page, as I mostly write on paper. I also like the idea of adding in puzzles for the reader to solve, something that reminds me of a game, with the prize being able to move onto the next page.
+</p>
 # Week 7 - Paradox
 </p>Readings – The Paradox of Poetic Gaming
 </p>
