@@ -83,6 +83,7 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 </p>
 </p>This piece has inspired a new idea, something that may dismantle my original idea for my final project. In the chapter ‘Two Riddles,’ the author talks about how riddles acted as an early ancestor of interactive fiction. I enjoyed this concept so much, I think I will mix the ‘old’ and the ‘new’ together to create one large interactive piece. I feel this could represent me on a page, as I mostly write on paper. I also like the idea of adding in puzzles for the reader to solve, something that reminds me of a game, with the prize being able to move onto the next page.
 </p>
+
 # Week 7 - Paradox
 </p>Readings – The Paradox of Poetic Gaming
 </p>
