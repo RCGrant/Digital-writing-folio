@@ -41,6 +41,9 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 
 </P>I also began exploring the Electronic Literature Collection and discovered a few pieces that became addictive. 'The book you are looking for does not exist' and 'Living Will' were some of my favourites. I still don't understand a few of the pieces I interacted with, such as 'Masked Making'.
 </p>
+</p>Glitch reflection
+</p>I played around with all aspects of this playground. I changed the GIF, background picture, colours in the background and on particular cards (with some success), text responses, and emojis. I had moments of both anger and happiness. I didn't completely change the Taroko Gorge poem, as I liked some of the words already coded into the generator; I did, however, add a few of my own. I don’t know if this remix is considered successful, I am just happy that the website doesn’t seem to be completely broken now that I have changed the code in several places.
+</p>
 </p>Readings—Digital Poesis Impulse
 </p>This piece explores why poets may turn to digital writing. This author argues that poets may find more room to experiment with language, formats, data, and chaos to produce new poems. While I agree with the author in terms of digital writing offering a new playground to create in, I believe that this new playground has, at times, the same restrictive feeling that writing traditionally can have, especially if you are not well versed in code or in the programs that assist with the digital writing.
 </P>
@@ -53,7 +56,7 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 </p>Taroko Gorge and Co cannot be printed. That is the simple difference between these elit pieces and printed lit. They read different because you have to actively interact with the pieces to read the full story. If you choose to only read the surface of any of these pieces, you will miss the main points. In Taroko Gorge, if you dont move your mouse across the green screen, you would not uncover the next line. If you dont write the next command in Shade, you would never find the plane tickets. Qualities that set these stories a part from traditional literature is the use of coding to create a bridge between the author and the reader. Without the code, these stories would not exist. Flash based elit is a prime example of this, where the code that underlines these stories has disappeared, so has the stories they used to tell.
 </p>
 
-# Week 4 - Twine
+# Week 4 - Twine reflection
 </p>This is not my favourite program by any means, yet I think I will still use it in my final piece. Twine is mostly user friendly to beginner coders but then throws these curve balls at you with devastating effect. I cannot for the life of me get the image map to work. I had tried several different ways now (with the assistance of teachers, peers and ChatGPT) and looking at the twine is beginning to hurt. The link above leads to this broken code, I was unable to fix the issues.  
 </p>
 
