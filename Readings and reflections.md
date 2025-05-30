@@ -79,6 +79,14 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 
 </p>I was thinking of using Bitsy for my own final piece, but this interactive fiction story has made me think twice about such an idea. While as a reader I found the piece easy to follow, easy to move through, and engaging. I found the delivery choice of the actual story less than enjoyable. I think Bitsy would work for shorter pieces due to the restriction of the dialogue you can have on screen at any one time.</p>
 
+# Week 8 - Presentations and feedback
+</p>After speaking with some of my peers outside class and reading comments sent via email from Jenny, I believe I have a very clear picture of where I am going with this piece. I was on the fence about having the story loop itself, but Jenny’s encouragement has made me incorporate this detail. Some of my classmates were also very supportive of my idea and gave me the confidence to retry the submission button. I also spoke to them about my frustrations with deploying my story, with Mollie giving me several alternative options where I could publish without worrying about my use of JavaScript. The peer presentations I did see were very impressive, even in these early stages. Now that I understand all the backend work that is required just to get a passage to work, it has given me even more respect for my fellow peers.
+</p>
+</p>My to-do list is as follows:
+</p>Tackle submission box
+</p>Look into audio for different passages
+</p>Retry interactive image maps
+</p>
 
 # Week 10 - A look back
 </p>At the beginning of the semester, I had little in the way of expectations or even understanding of what this course entailed. I chose this course not because of the content, but because it was the only class that didn’t run through the majority of my nursing shifts. I was not as blindsided as some of my classmates but still had very little experience in the digital coding space. I had interacted with interactive fiction through games, programmes such as Twine and Bitzy were a mystery to me (Bitzy is still a bit vague). By week three, I fully realised the extensive amount of work that was required for this course to work. I was concerned about how that would work in my time-poor life, especially as code was something I had never tried to learn.
