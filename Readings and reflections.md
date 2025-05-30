@@ -79,6 +79,12 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 
 </p>I was thinking of using Bitsy for my own final piece, but this interactive fiction story has made me think twice about such an idea. While as a reader I found the piece easy to follow, easy to move through, and engaging. I found the delivery choice of the actual story less than enjoyable. I think Bitsy would work for shorter pieces due to the restriction of the dialogue you can have on screen at any one time.</p>
 
+# Week 7 - Paradox
+</p>Readings – The Paradox of Poetic Gaming
+</p>
+</p>The key takeaway for me was said on page 127. The author compares traditional exhibitions and digital writing. This was fascinating to me, as it links back to ‘Decolonize E-Literature? On Weeding the E-Lit Garden,’ read in week one. When comparing the two forms of showing art, the author outlines that while public exhibitions are great spaces to interact with the public, digital writings, which are usually published on indie gaming sites, are easily accessible and are typically not bound to a start and an end date. I agree with the comparison and would like to add that when art is shown in a physical exhibition, that artwork is limited by the location, only reaching people in that area. Digital writing, however, has the potential to jump from country to country, reaching anyone who has access to the internet. 
+</p>
+
 # Week 8 - Presentations and feedback
 </p>After speaking with some of my peers outside class and reading comments sent via email from Jenny, I believe I have a very clear picture of where I am going with this piece. I was on the fence about having the story loop itself, but Jenny’s encouragement has made me incorporate this detail. Some of my classmates were also very supportive of my idea and gave me the confidence to retry the submission button. I also spoke to them about my frustrations with deploying my story, with Mollie giving me several alternative options where I could publish without worrying about my use of JavaScript. The peer presentations I did see were very impressive, even in these early stages. Now that I understand all the backend work that is required just to get a passage to work, it has given me even more respect for my fellow peers.
 </p>
