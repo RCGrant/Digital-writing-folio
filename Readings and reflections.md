@@ -53,21 +53,25 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 </p>Taroko Gorge and Co cannot be printed. That is the simple difference between these elit pieces and printed lit. They read different because you have to actively interact with the pieces to read the full story. If you choose to only read the surface of any of these pieces, you will miss the main points. In Taroko Gorge, if you dont move your mouse across the green screen, you would not uncover the next line. If you dont write the next command in Shade, you would never find the plane tickets. Qualities that set these stories a part from traditional literature is the use of coding to create a bridge between the author and the reader. Without the code, these stories would not exist. Flash based elit is a prime example of this, where the code that underlines these stories has disappeared, so has the stories they used to tell.
 </p>
 
-# Week 5 Hypertext
+# Week 5 Ergodic ideas
 
-</p>Ergodics is not a concept I have ever read about, and I will admit, I had to look up the word again before I could fully pursue the question. Ergodics refers to the idea that every part of a system will eventually visit/move through all parts of the space that the system exists within, whether that be at random or in a pattern. Using this explanation, I can agree with Aarseth's concept that hypertext is more of an alternative to conventional writing than something that replaces it. Both hypertext and conventional writing exist within the same system, both tasked with telling a story to the reader. However, hypertext creates the ability for the reader to participate in the formation of the story. They do not change the contents of the story, but readers can affect the way in which the story moves through the system, whether that be at random or in a pattern only they can see. In this way, the reader does not destroy the author's work but instead plays with it in the confines of the system created by the author. If the author chooses to, they still have the power to turn the story into something linear and more conventional. In its current ergodic state, however, the reader has the opportunity to explore the same story in many different ways, finding something new every time.</p>
+</p>Ergodics is not a concept I have ever read about, and I will admit, I had to look up the word again before I could fully pursue the question. Ergodics refers to the idea that every part of a system will eventually visit/move through all parts of the space that the system exists within, whether that be at random or in a pattern. Using this explanation, I can agree with Aarseth's concept that hypertext is more of an alternative to conventional writing than something that replaces it. Both hypertext and conventional writing exist within the same system, both tasked with telling a story to the reader. However, hypertext creates the ability for the reader to participate in the formation of the story. They do not change the contents of the story, but readers can affect the way in which the story moves through the system, whether that be at random or in a pattern only they can see. In this way, the reader does not destroy the author's work but instead plays with it in the confines of the system created by the author. If the author chooses to, they still have the power to turn the story into something linear and more conventional.</p>
 
 </p>This real-time collaboration of author and reader cannot be found within traditional writing methods. However, the concept of hypertext itself is not too foreign to intimidate the reader and gives them the chance to focus and ignore parts of the story that may not interest them.</p>
 
-# Ideas around Assessment two and three
+</p>Idea Mapping</p>
 </p>I have been bouncing from one idea to another, so I will list the top two in hopes that it will make the selection process easier.</p>
 
 </p>Idea one: Spider web across screen, reader cuts the web between words to create their own poem. Simple black and white aesthetic, words relating to the modern world (excessive consumption, oversharing). Twine could probably be useful in the creation of this piece. I would draw images that the reader could click on and change. I think it would be time-consuming, with many creations of different images with all the choices available to the reader.</p>
 
-</p>Idea two: A set of five riddles focusing on the obvious but ignored parts of our lives (poverty line, gender inequality, depression, homelessness, money). I don't know what platform I would need to make this on, as the reader would have to give the answers to the questions to move through the piece.</p>
+</p>Idea two: A set of five riddles focusing on the obvious but ignored parts of our lives (poverty line, gender inequality, depression, homelessness, money). I don't know what platform I would need to make this on, as the reader would have to give the answers to the questions to move through the piece. (Inspired by Week six's readings).</p>
 
 </p>I don't know if I should go with something more rooted in visual cues or something that has a deep connection to the analogue world I am used to.</p>
 
+</p>Readings – No sense of an Ending
+</p>
+</p>A strange read, as it talks about the World Wide Web like it has yet to happen. The author's ideas were interesting, especially when talking about the different ‘pathways’ a story might have depending on how and where it was created. I came back to this in week six and thought about my own story’s basic structure and had this idea to maybe loop the story, giving a false sense of change from the reader’s perspective. I don’t know if I will go ahead with this.
+</p>
 # Week 6 - What came before
 </p>House on the Hill by Lara J. Scuri</p>
 
