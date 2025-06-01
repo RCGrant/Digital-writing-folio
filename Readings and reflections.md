@@ -57,7 +57,11 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 </p>
 </p>Readings- Introduction
 </p>
+</p>I felt like a madman reading this. The way the piece jumped from defining the ‘madmen’ to talking about the word ‘ouvroir,’ which means ‘to work'. I felt like I understood little of what was going on and had to retrace my steps several times with little change. I did enjoy the final line of this introduction, though. The idea of rats building the very labyrinth they have to escape from is not only visually intriguing but is an accurate depiction of the modern world.
+</p>
 </p>Readings- Beyond Taxonomy
+</p>
+</p>The author outlines the concept of Taxonomadism and argues that digital writing should become more nomadic, a fluid area that moves and changes with technology and the political environment. As a lot of digital writing happens outside the institutionalised space, works should be reviewed differently by the public and allowed to evolve, contextualise, or disappear. I found this content hard to dissect, especially as I didn’t understand the current role digital writing holds in the writing field. I do like the idea of a piece being able to evolve with time; in this era of fast-moving media, to see a piece either grow or die due to external factors could be interesting.
 </p>
 
 
