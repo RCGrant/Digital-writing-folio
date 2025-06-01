@@ -101,3 +101,5 @@ You finish another double shift and arrive at your Door.
 # The Final piece
 </p> https://rcgrant.itch.io/overshadowed
 </p>
+</p>I have followed Mollie’s advice and published my piece on itch.io. There were some issues around uploading my content. I think this was down to my own internet connection rather than the website or my piece. I was also able to add the links for the website where I got my statistics from, so readers may access them freely. All in all, this was one of the easier steps for this project.
+</p>
