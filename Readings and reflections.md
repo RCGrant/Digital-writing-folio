@@ -116,6 +116,12 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 </p>Retry interactive image maps
 </p>
 
+# Week 9 - FAKE Author website
+</p>https://rcgrant.github.io/fakeauthorwebsite/
+</p>
+</p>Reflection:This little project was so much easier than the first glitch project the class completed early on in the semester. The images cooperated with me; I was able to navigate between different html and edit the parts I wanted to with ease. I actually had fun playing around and creating a fake author (a very successful author, might I add) and found the website template easy to understand. In the future, I may actually use this template to create my own website, but at the moment I am happy using my Substack website, as I don’t have much published work.
+</p>
+
 # Week 10 - A look back
 </p>At the beginning of the semester, I had little in the way of expectations or even understanding of what this course entailed. I chose this course not because of the content, but because it was the only class that didn’t run through the majority of my nursing shifts. I was not as blindsided as some of my classmates but still had very little experience in the digital coding space. I had interacted with interactive fiction through games, programmes such as Twine and Bitzy were a mystery to me (Bitzy is still a bit vague). By week three, I fully realised the extensive amount of work that was required for this course to work. I was concerned about how that would work in my time-poor life, especially as code was something I had never tried to learn.
 </p>
