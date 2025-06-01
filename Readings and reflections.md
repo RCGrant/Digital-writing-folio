@@ -52,9 +52,14 @@ I chose an interactive piece called ‘Living Will’ by Mark C. Marino. The sto
 
 </p>Im still wildly confused by coding. I have been running through this class trying not to break the fragile code that exists on the screen. My mindset has not changed that much, I did think about jumping ship this week but apparently subject change is now no longer possible. I don't believe that interacting with elit has changed how i read it. I think I am beginning to resent this class and the content that it teaches...</p>
 
-</p>As for the new week 1 and 2 questions:</p>
-</p>Taroko Gorge and Co cannot be printed. That is the simple difference between these elit pieces and printed lit. They read different because you have to actively interact with the pieces to read the full story. If you choose to only read the surface of any of these pieces, you will miss the main points. In Taroko Gorge, if you dont move your mouse across the green screen, you would not uncover the next line. If you dont write the next command in Shade, you would never find the plane tickets. Qualities that set these stories a part from traditional literature is the use of coding to create a bridge between the author and the reader. Without the code, these stories would not exist. Flash based elit is a prime example of this, where the code that underlines these stories has disappeared, so has the stories they used to tell.
+</p>E-Lit pieces:</p>
+</p>The four e-literature pieces are varied in both overall message and choice of delivery. Taroko Gorge is a story that relies on kinetics, with lines appearing on the screen as the reader moves their mouse. Taroko Gorge is also crowd-written, with multiple authors updating the poem over many years. Shade, on the other hand, is driven by the readers' answers, with no loopholes available to move around these roadblocks. The story is complex and has the ability to change between reads, creating several different journeys with the same ending. Elements in both these stories are meaningful as they rely on the reader fully engaging with the work. Without this engagement, the pieces would not move past the first few lines and, in essence, cease to exist. Taroko Gorge and other e-literature pieces cannot be printed due to this requirement of interaction. The code, which can only function online, creates this bridge between author and reader, both benefiting and limiting the piece. I say limiting due to the reliance on code. As technology moves forward, some code, such as Flash, is left behind. This makes e-literature pieces vulnerable to disappearing from the internet altogether.
 </p>
+</p>Readings- Introduction
+</p>
+</p>Readings- Beyond Taxonomy
+</p>
+
 
 # Week 4 - Twine reflection
 </p>This is not my favourite program by any means, yet I think I will still use it in my final piece. Twine is mostly user friendly to beginner coders but then throws these curve balls at you with devastating effect. I cannot for the life of me get the image map to work. I had tried several different ways now (with the assistance of teachers, peers and ChatGPT) and looking at the twine is beginning to hurt. The link above leads to this broken code, I was unable to fix the issues.  
